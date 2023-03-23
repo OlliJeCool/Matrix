@@ -1,0 +1,15 @@
+/home/olli/RiderProjects/Matrix/Matrix/bin/Debug/net7.0/Matrix
+/home/olli/RiderProjects/Matrix/Matrix/bin/Debug/net7.0/Matrix.deps.json
+/home/olli/RiderProjects/Matrix/Matrix/bin/Debug/net7.0/Matrix.runtimeconfig.json
+/home/olli/RiderProjects/Matrix/Matrix/bin/Debug/net7.0/Matrix.dll
+/home/olli/RiderProjects/Matrix/Matrix/bin/Debug/net7.0/Matrix.pdb
+/home/olli/RiderProjects/Matrix/Matrix/obj/Debug/net7.0/Matrix.csproj.AssemblyReference.cache
+/home/olli/RiderProjects/Matrix/Matrix/obj/Debug/net7.0/Matrix.GeneratedMSBuildEditorConfig.editorconfig
+/home/olli/RiderProjects/Matrix/Matrix/obj/Debug/net7.0/Matrix.AssemblyInfoInputs.cache
+/home/olli/RiderProjects/Matrix/Matrix/obj/Debug/net7.0/Matrix.AssemblyInfo.cs
+/home/olli/RiderProjects/Matrix/Matrix/obj/Debug/net7.0/Matrix.csproj.CoreCompileInputs.cache
+/home/olli/RiderProjects/Matrix/Matrix/obj/Debug/net7.0/Matrix.dll
+/home/olli/RiderProjects/Matrix/Matrix/obj/Debug/net7.0/refint/Matrix.dll
+/home/olli/RiderProjects/Matrix/Matrix/obj/Debug/net7.0/Matrix.pdb
+/home/olli/RiderProjects/Matrix/Matrix/obj/Debug/net7.0/Matrix.genruntimeconfig.cache
+/home/olli/RiderProjects/Matrix/Matrix/obj/Debug/net7.0/ref/Matrix.dll
